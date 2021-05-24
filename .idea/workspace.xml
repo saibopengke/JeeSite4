@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636b5ee3-b335-400f-9dc6-4900430a4592" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/deploy_tomcat_script_pipeline.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/deploy_tomcat_script_pipeline.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <workItem from="1621829175472" duration="1208000" />
       <workItem from="1621830414743" duration="1025000" />
       <workItem from="1621834918257" duration="1306000" />
-      <workItem from="1621836271125" duration="3896000" />
+      <workItem from="1621836271125" duration="4391000" />
     </task>
     <servers />
   </component>
